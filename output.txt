@@ -1,0 +1,13 @@
+am 4
+and 2
+do 4
+eggs 2
+green 2
+ham 2
+i 7
+like 4
+not 3
+sam 4
+that 3
+them 1
+you 1
